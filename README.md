@@ -3,7 +3,7 @@
 Implements ECDSA signature and verification using secp256k1 from scratch.
 
 ```bash
-python3 sign_and_verify.py
+python3 main.py
 ```
 
 ### Resources
