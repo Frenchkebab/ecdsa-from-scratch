@@ -4,6 +4,7 @@ Implements ECDSA signature and verification using secp256k1 from scratch.
 
 ```bash
 git clone git@github.com:Frenchkebab/ecdsa-from-scratch.git
+cd ecdsa-from-scratch
 python3 main.py
 ```
 
